@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eujung33
+- 👋 Hi, I’m @IA-SBox
 - 👀 I’m interested in learning GitHub and other tools for my job
 - 🌱 I’m currently learning Ignition
 - 💞️ I’m looking to collaborate on K-Pop related items
